@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.7.0 <0.9.0;
-import "IStudentsRegistry.sol";
+import "./IStudentsRegistry.sol";
 
 contract StudentsRegistry is IStudentsRegistry {
     mapping(address => bool) students;
