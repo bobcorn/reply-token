@@ -1,5 +1,5 @@
 # Reply Token – An ERC-721 compliant Ethereum NFT
-A smart contract for an NFT token that implements the ERC721 standard.
+A smart contract for an NFT token that implements the ERC-721 standard.
 
 Final project for course "Blockchain" during my 2nd Level Specializing Master's Programme at Polytechnic University of Turin.
 
